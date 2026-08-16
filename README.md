@@ -1,16 +1,16 @@
-## Hi there 👋
+<html>
 
-<!--
-**nrsie/nrsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</head>
+<body>
+<p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=yattacest&label=ㅤㅤᕱ⑅ᕱㅤㅤ&color=ff96c2&style=flat-square"> </dir> </p>
 
-Here are some ideas to get you started:
+<p align="center">
+<p align="center"><img src="https://64.media.tumblr.com/4eb5d7bb5fb2145a750fb1e731c06c9b/cbdba13a57f7740f-53/s75x75_c1/797281ba005d8eaf89dff22348d565300c14fe88.gifv" width="15" />ㅤㅤ𝚢attaㅤㅤcola ˳
+<br>
+ 𓏻 𓈒  ׅ αnyㅤㅤall    ᐢ ॱִ⑅ ᐢ
+<br>
+( <a href="https://lovely.bio/k">ཫ</a> . ꈍ ͜)໒꒱ั
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+  </body>
+</html>
