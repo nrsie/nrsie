@@ -9,7 +9,7 @@
 <br>
  𓏻 𓈒  ׅ αnyㅤㅤall    ᐢ ॱִ⑅ ᐢ
 <br>
-( <a href="https://frail.bio/21">ཫ</a> . ꈍ ͜)໒꒱ั
+( <a href="https://frail.bio/w9">ཫ</a> . ꈍ ͜)໒꒱ั
 
 </p>
   </body>
