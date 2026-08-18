@@ -5,11 +5,11 @@
 <p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=nrsie&label=ㅤㅤᕱ⑅ᕱㅤㅤ&color=ff96c2&style=flat-square"> </dir> </p>
 
 <p align="center">
- ͡   ᩚ ︠ ̣̣ ֹ  𝓎ᵃ  ۪۪ᵗᵗᵃֶָ֢
+txtxtxtxt
 <br>
- 𓏻 𓈒  ׅ αnyㅤㅤall    ᐢ ॱִ⑅ ᐢ
+txtxtxtxt
 <br>
-( <a href="https://frail.bio/w9">ཫ</a> . ꈍ ͜)໒꒱ั
+( <a href="https://frail.bio/w9">♡</a> . ꈍ ͜)໒꒱ั
 
 </p>
   </body>
